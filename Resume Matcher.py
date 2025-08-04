@@ -33,7 +33,7 @@ if st.button("🔍 Match Now"):
     if resume_file is not None and job_description.strip():
         resume_text = extract_text(resume_file)
 
-        # Vectorize and compute similarity
+   
         vectorizer = TfidfVectorizer().fit_transform([resume_text, job_description])
         similarity = cosine_similarity(vectorizer[0:1], vectorizer[1:2])[0][0]
 
