@@ -15,3 +15,7 @@ Built with LangChain + OpenAI API + Streamlit
 📚 Chat with internal docs, FAQs, and policies instantly.  
 [View Code](https://github.com/PrasanthAshok30/AIprojects/blob/main/AI.py)
 
+### 📄 Smart Resume Matcher
+Built with Python + Pandas + Scikit-learn  
+⚙️ Match resumes to job descriptions using NLP scoring.  
+[View Code](https://github.com/PrasanthAshok30/AIprojects/blob/main/Resume%20Matcher.py)
