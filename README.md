@@ -13,5 +13,5 @@ I'm a tech-curious AI enthusiast passionate about building meaningful AI solutio
 ### 🧠 AI Chatbot for Company Knowledge Base
 Built with LangChain + OpenAI API + Streamlit  
 📚 Chat with internal docs, FAQs, and policies instantly.  
-[View Code](https://github.com/PrasanthAshok30/ai-chatbot)
+[View Code](https://github.com/PrasanthAshok30/AIprojects/blob/main/AI.py)
 
